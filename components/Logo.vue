@@ -1,4 +1,4 @@
 <template>
-  <img width="120" src="/img/logo-fach.svg">
+  <img width="120" src="/img/bla.svg">
 </template>
  
