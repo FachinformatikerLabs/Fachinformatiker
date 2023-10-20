@@ -5,6 +5,7 @@ export default defineAppConfig({
     image: 'https://user-images.githubusercontent.com/904724/185365452-87b7ca7b-6030-4813-a2db-5e65c785bf88.png',
 
     socials: {
+      discord: 'http://nyxb.chat',
       twitter: 'nyxb0',
       github: 'nyxb',
 
@@ -23,7 +24,7 @@ export default defineAppConfig({
       repo: 'Fachinformatiker',
       owner: 'nyxb',
       edit: true,
-      baseUrl: 'https://github.com/nyxb/Fachinformatiker/blob/main'
+      baseUrl: 'https://github.com/'
     },
 
     aside: {
@@ -46,6 +47,7 @@ export default defineAppConfig({
 
     footer: {
       credits: {
+        icon: '',
         text: 'Powered by Nyxb',
         href: 'https://nyxb.blog'
       }
