@@ -8,13 +8,6 @@ export default defineAppConfig({
       discord: 'http://nyxb.chat',
       twitter: 'nyxb0',
       github: 'nyxb',
-
-      // nuxt: {
-      //   label: 'Nuxt',
-      //   icon: 'simple-icons:nuxtdotjs',
-      //   href: 'https://nuxt.com'
-      // },
-
       youtube: 'https://youtube.com/@nyxb_0'
     },
 
