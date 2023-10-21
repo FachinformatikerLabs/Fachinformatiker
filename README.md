@@ -26,7 +26,7 @@ Online-Plattform zur Prüfungsvorbereitung mit zahlreichen Ressourcen und Übung
 
 ## ⚠️ Fachinformatiker ist derzeit in der Alpha-Phase.
 
-Es ist bereits ziemlich nutzbar, aber noch nicht bereit für eine breite Anwendung. Wir empfehlen dir, es zu nutzen, wenn du uns beim Aufbau helfen möchtest. Wir schätzen dein Feedback und deine Beiträge. Sieh dir die [offenen Probleme](https://github.com/nyxb/Fachinformatiker/issues) an und steige in die Aktion ein. Tritt dem [Elk Discord Server](https://nyxb.chat) bei, um mit uns zu plaudern und mehr über das Projekt zu erfahren.
+Es ist bereits ziemlich nutzbar, aber noch nicht bereit für eine breite Anwendung. Wir empfehlen dir, es zu nutzen, wenn du uns beim Aufbau helfen möchtest. Wir schätzen dein Feedback und deine Beiträge. Sieh dir die [offenen Probleme](https://github.com/nyxb/Fachinformatiker/issues) an und steige in die Aktion ein. Tritt dem [Nyxb Discord Server](https://nyxb.chat) bei, um mit uns zu plaudern und mehr über das Projekt zu erfahren.
 
 ## Deployment
 
@@ -34,7 +34,7 @@ Es ist bereits ziemlich nutzbar, aber noch nicht bereit für eine breite Anwendu
 
 Das Nyxb-Team betreut eine Bereitstellung unter:
 
-- 🦌 Produktion: [fachinformatiker.site](https://fachinformatiker.site)
+- 🦌 Produktion: [Fachinformatiker.site](https://fachinformatiker.site)
 <br/>
 
 ## 💖 Sponsors
