@@ -215,12 +215,12 @@ watch(Escape, () => {
 <template>
   <button
     type="button"
-    aria-label="Search"
+    aria-label="Suche"
     @click="show = true"
   >
     <span class="content">
       <Icon name="heroicons-outline:search" />
-      <span>Search</span>
+      <span>Suche</span>
       <span>
         <kbd>⌘</kbd>
         <kbd>K</kbd>
@@ -318,14 +318,14 @@ watch(Escape, () => {
           v-else-if="!q"
           class="search-results empty"
         >
-          Type your query to search docs
+        Gib deine Suchanfrage ein, um Dokumente zu suchen
         </div>
 
         <div
           v-else
           class="search-results empty"
         >
-          No results found. Try another query
+        Keine Ergebnisse gefunden. Versuche eine andere Abfrage
         </div>
       </div>
     </div>
