@@ -7,16 +7,18 @@
     "build": "nuxi build",
     "generate": "nuxi generate",
     "preview": "nuxi preview",
-    "lint": "eslint ."
+    "lint": "eslint .",
+    "release": "release-it"
   },
   "devDependencies": {
-    "destr": "^2.0.2",
     "@nuxt/devtools": "^0.5.5",
     "@nuxt/eslint-config": "0.1.1",
     "@nuxtjs/plausible": "^0.2.1",
     "@types/node": "^20.2.5",
+    "destr": "^2.0.2",
     "docux": "^1.0.4",
     "eslint": "^8.52.0",
-    "nuxt": "3.5.3"
+    "nuxt": "3.5.3",
+    "release-it": "^16.2.1"
   }
 }
