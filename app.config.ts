@@ -25,7 +25,7 @@ export default defineAppConfig({
          padded: true,
       },
       header: {
-         title: '',
+         title: 'Fachinformatiker',
          logo: true,
          showLinkIcon: true,
          exclude: [],
